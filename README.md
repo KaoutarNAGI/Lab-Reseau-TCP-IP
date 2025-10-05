@@ -32,4 +32,3 @@
 
 ---
 
-💡 **Tip GitHub :** Badges + structure claire = visibilité immédiate de tes compétences pour les recruteurs.
