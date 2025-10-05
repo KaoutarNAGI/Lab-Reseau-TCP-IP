@@ -26,9 +26,8 @@
 ---
 
 ## 📂 Contenu du repo
-- `PacketTracer/Reseau-Tinos-Cyclade.pkt` – simulation complète  
-- `Scripts/` (optionnel) – scripts Bash/PowerShell  
-- `README.md` – description synthétique  
+- `PacketTracer/Reseau-Tinos-Cyclade.pkt`  
+- `README.md` 
 
 ---
 
