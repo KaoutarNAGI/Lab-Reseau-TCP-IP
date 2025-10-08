@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Compétences
-![TCP/IP](https://img.shields.io/badge/TCP-IP-blue) ![VLAN](https://img.shields.io/badge/VLAN-lightgrey) ![Routage](https://img.shields.io/badge/Routage-orange) ![DHCP](https://img.shields.io/badge/DHCP-green) ![DNS](https://img.shields.io/badge/DNS-yellow) ![Linux](https://img.shields.io/badge/Linux-red) ![Windows Server](https://img.shields.io/badge/Windows_Server-blueviolet) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_PacketTracer-lightblue) ![Sécurité](https://img.shields.io/badge/Sécurité-darkred)  
+![TCP/IP](https://img.shields.io/badge/TCP-IP-blue) ![VLAN](https://img.shields.io/badge/VLAN-lightgrey) ![Routage](https://img.shields.io/badge/Routage-orange) ![DHCP](https://img.shields.io/badge/DHCP-green) ![DNS](https://img.shields.io/badge/DNS-yellow) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_PacketTracer-lightblue)
 
 ---
 
